@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/companies-test
+    username: admin
+    password: super-secret-test
+    hikari:
+      connection-timeout: 20000
+      maximum-pool-size: 5
