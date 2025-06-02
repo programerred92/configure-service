@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5432/companies-test
+    url: jdbc:postgresql://localhost:5234/companies-test
     username: admin-test
     password: super-secret-test
     hikari:
