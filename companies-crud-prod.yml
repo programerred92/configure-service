@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: companies-crud-prod
+  datasource:
+    hikari:
+      connection-timeout: 20000
+      maximum-pool-size: 5
+    password: secret
+    url: jdbc:postgresql://localhost:5432/companies
+    username: Cl4V3uLtr4S3cr3t
