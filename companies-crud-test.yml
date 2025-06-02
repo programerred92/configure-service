@@ -1,7 +1,7 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/companies-test
-    username: admin
+    username: admin-test
     password: super-secret-test
     hikari:
       connection-timeout: 20000
