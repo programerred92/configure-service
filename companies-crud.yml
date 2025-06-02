@@ -1,6 +1,4 @@
 spring:
-  application:
-    name: companies-crud
   datasource:
     hikari:
       connection-timeout: 20000
