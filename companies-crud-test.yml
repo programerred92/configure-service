@@ -1,8 +1,8 @@
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5234/companies-test
-    username: admin-test
-    password: super-secret-test
+    username: adminTest
+    password: superSecretTest
     hikari:
       connection-timeout: 20000
       maximum-pool-size: 5
